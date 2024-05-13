@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\VM\\PythonVM\\PythonVM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE43C98C-88FF-4D17-A3D6-DDDCA10A2722}|PythonVM.vcxproj|C:\\Users\\admin\\source\\repos\\VM\\PythonVM\\PythonVM\\demo_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE43C98C-88FF-4D17-A3D6-DDDCA10A2722}|PythonVM.vcxproj|solutionrelative:demo_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo_1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\VM\\PythonVM\\PythonVM\\demo_1.cpp",
+              "RelativeDocumentMoniker": "demo_1.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\VM\\PythonVM\\PythonVM\\demo_1.cpp",
+              "RelativeToolTip": "demo_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:12:19.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
